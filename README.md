@@ -1,6 +1,6 @@
 ﻿# Gerador de Senhas
  
- - Esse sistema foi feito para gerar senhar aleatorias que contenham mais segurança. O usuario tem a liberdade de escolher a quais tipos de caracteres deseja
+ - Esse sistema foi feito para gerar senhar aleatorias, que contenham mais segurança. O usuário tem a liberdade de escolher quais tipos de caracteres deseja
  e o tamanho de sua senha.
 
 - A propria aplicação ira mostrar o grau de segurança sobre a senha gerada.
