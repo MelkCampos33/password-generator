@@ -5,7 +5,7 @@
 
 - A propria aplicação ira mostrar o grau de segurança sobre a senha gerada.
 
-- Ao lado do campo onde aparece a senha, existe um botão onde o usuario pode facilmente copiala já apra uso.
+- Ao lado do campo onde aparece a senha, existe um botão onde o usuario pode facilmente copiá la já para uso.
 
 #
 <p align="center">
